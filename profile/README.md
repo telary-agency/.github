@@ -2,6 +2,8 @@
 
 ## Our work
 
+👉 Contact me https://www.linkedin.com/in/constant-deschietere/
+
 Start your data journey !
 I'm here to help you, design, setup and build your next data platform (in the cloud or on-premise).
 
@@ -37,3 +39,5 @@ I'm here to help you, design, setup and build your next data platform (in the cl
 
 
 As most of the work is done part time, the offer only works in full remote situation.
+
+👉 Contact me https://www.linkedin.com/in/constant-deschietere/
